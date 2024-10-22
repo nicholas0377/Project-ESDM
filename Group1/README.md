@@ -1,7 +1,7 @@
-# Group1: Introduction to the Upcoming Project
+# Group 1: Introduction to the Upcoming Project
 
 ## Overview
-Group1 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
+Group 1 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
 
 ## Goals
 The primary objectives of Group1 in this project include:
