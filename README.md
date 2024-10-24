@@ -38,7 +38,7 @@ This project focuses on exploring various components of the **SAP Ecosystem** th
 | Topic                                                                                     | Group                                                               |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
 | i. SAP Fiori & ii. SAP Success Factors                                                    | [Group 1](https://github.com/akim730/Project-ESDM/tree/main/Group1) |
-| i. SAP BTP & ii. Open SAP                                                                 | [Group 2](https://github.com/akim730/Project-ESDM/tree/main/Group2) |
+| i. SAP BTP & ii. SAP Signavio                                                             | [Group 2](https://github.com/akim730/Project-ESDM/tree/main/Group2) |
 | i. Business application integration to SAP Analytics Cloud & ii. SAP Cloud SDK            | [Group 3](https://github.com/akim730/Project-ESDM/tree/main/Group3) |
 | i. SAP MaxDB for Microsoft WIndows & ii. Performance monitoring toop for SAP Business One | [Group 4](https://github.com/akim730/Project-ESDM/tree/main/Group4) |
 | i. Not state...                                                                           | [Group 5](https://github.com/akim730/Project-ESDM/tree/main/Group5) |
