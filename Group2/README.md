@@ -1,5 +1,30 @@
-# Group 2: Introduction to the Upcoming Project
+# Group 2: SAP BTP & Open SAP
 
+<!-- Table for group members -->
+<table border="1">
+    <tr>
+        <th>Group Member</th>
+        <th>Matric No.</th>
+    </tr>
+  <tr>
+        <td>Camily Tang Jia Lei</td>
+        <td>A22EC0039</td>
+    </tr>
+    <tr>
+        <td>Low Ying Xi</td>
+        <td>A22EC0187</td>
+    </tr>
+    <tr>
+        <td>Mulyani Binti Saripuddin</td>
+        <td>A22EC0223</td>
+    </tr>
+  <tr>
+        <td>Ng Shu Yu</td>
+        <td>A22EC0228</td>
+    </tr>
+</table>
+
+<br>
 ## Overview
 Group 2 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
 
