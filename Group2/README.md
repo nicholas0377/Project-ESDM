@@ -1,4 +1,4 @@
-# Group 2: SAP BTP & Open SAP
+# Group 2: SAP BTP & SAP Signavio
 
 <!-- Table for group members -->
 <table border="1">
