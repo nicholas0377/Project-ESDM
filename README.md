@@ -1,5 +1,3 @@
-# Project-ESDM
-
 # SAP Ecosystem Exploration Project
 
 ![SAP Logo](https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg) 
