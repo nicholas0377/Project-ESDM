@@ -114,7 +114,7 @@
     </tr>
     <tr>
         <td>7.</td>
-        <td>24/10/24</td>
+        <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Key Features : Journey Modeler</td>
         <td>Searched SAP Signavio using keyword: 
@@ -127,7 +127,7 @@
     </tr>
     <tr>
         <td>8.</td>
-        <td>24/10/24</td>
+        <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Key Features : Process Governance</td>
         <td>Searched SAP Signavio using keyword: 
@@ -142,7 +142,7 @@
     </tr>
      <tr>
         <td>9.</td>
-        <td>24/10/24</td>
+        <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Key Features : Process Automation</td>
         <td>Searched SAP Signavio using keyword: 
@@ -153,7 +153,7 @@
     </tr>
      <tr>
         <td>10.</td>
-        <td>24/10/24</td>
+        <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Real World Application</td>
         <td>Searched SAP Signavio using keyword: 
