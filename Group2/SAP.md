@@ -93,9 +93,9 @@
         <br>
         Article(s) found:
         <br>
-        1. https://www.signavio.com/resource-center/
-        2. https://www.signavio.com/get-started-with-sap-signavio-solutions/
-        3. https://www.signavio.com/video/featured-videos/
+        1. https://www.signavio.com/resource-center/ <br>
+        2. https://www.signavio.com/get-started-with-sap-signavio-solutions/ <br>
+        3. https://www.signavio.com/video/featured-videos/ <br>
         </td>
     </tr>
     <tr>
