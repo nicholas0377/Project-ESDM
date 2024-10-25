@@ -114,16 +114,52 @@
     </tr>
     <tr>
         <td>7.</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>24/10/24</td>
+        <td>Mulyani Saripuddin</td> 
+        <td>Research on SAP Signavio Key Features : Journey Modeler</td>
+        <td>Searched SAP Signavio using keyword: 
+        "SAP Signavio Journey Modeler"
+         <br>
+        1. https://www.signavio.com/products/journey-modeler/
+        <br>
+        2. https://learning.sap.com/learning-journeys/design-business-processes-with-sap-signavio-solutions/table-based-journey-modeling_ef52d24f-6f5c-4050-a7d0-9ff8a4eceafb
+        </td>
     </tr>
     <tr>
         <td>8.</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>24/10/24</td>
+        <td>Mulyani Saripuddin</td> 
+        <td>Research on SAP Signavio Key Features : Process Governance</td>
+        <td>Searched SAP Signavio using keyword: 
+        "SAP Signavio Process Governance"
+         <br>
+        1. https://www.signavio.com/products/process-governance/
+        <br>
+        2. https://help.sap.com/doc/b7ce20596d9a47b198e52dd845964179/SHIP/en-US/sap-signavio-process-governance-user-guide-en.pdf
+        <br>
+        3. https://mdpgroup.com/en/blog/what-is-sap-signavio-process-governance/
+        </td>
+    </tr>
+     <tr>
+        <td>9.</td>
+        <td>24/10/24</td>
+        <td>Mulyani Saripuddin</td> 
+        <td>Research on SAP Signavio Key Features : Process Automation</td>
+        <td>Searched SAP Signavio using keyword: 
+        "SAP Signavio Process Automation"
+         <br>
+        1. https://community.sap.com/t5/technology-blogs-by-sap/enterprise-automation-with-sap-signavio-solutions/ba-p/13562416
+        </td>
+    </tr>
+     <tr>
+        <td>10.</td>
+        <td>24/10/24</td>
+        <td>Mulyani Saripuddin</td> 
+        <td>Research on SAP Signavio Real World Application</td>
+        <td>Searched SAP Signavio using keyword: 
+        "SAP Signavio Real World Application"
+         <br>
+        1. https://www.signavio.com/news/siemens-healthcare-chooses-rise-with-sap-for-digital-transformation/
+        </td>
     </tr>
 </table>
