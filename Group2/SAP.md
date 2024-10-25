@@ -15,7 +15,7 @@
     </tr>
 </table>
 
-<br>
+
 
 <h2>Logbook</h2>
 <table border="1">
