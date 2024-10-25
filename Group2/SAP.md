@@ -84,17 +84,33 @@
     </tr>
     <tr>
         <td>5.</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>24-10-2024</td>
+        <td>Ng Shu Yu</td>
+        <td>Research on SAP Signavio Resources</td>
+        <td>Searched SAP Signavio using keyword: 
+        "Resources"
+        <br>
+        <br>
+        Article(s) found:
+        <br>
+        1. https://www.signavio.com/resource-center/
+        2. https://www.signavio.com/get-started-with-sap-signavio-solutions/
+        3. https://www.signavio.com/video/featured-videos/
+        </td>
     </tr>
     <tr>
         <td>6.</td>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>24-10-2024</td>
+        <td>Ng Shu Yu</td>
+        <td>Research on SAP Signavio Real-World Application</td>
+        <td>Searched SAP Signavio using keyword: 
+        "Success stories"
+        <br>
+        <br>
+        Article(s) found:
+        <br>
+        1. https://www.sap.com/sea/asset/dynamic/2024/04/90deb60e-b67e-0010-bca6-c68f7e60039b.html
+        </td>
     </tr>
     <tr>
         <td>7.</td>
