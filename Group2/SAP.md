@@ -162,4 +162,15 @@
         1. https://www.signavio.com/news/siemens-healthcare-chooses-rise-with-sap-for-digital-transformation/
         </td>
     </tr>
+    <tr>
+        <td>11.</td>
+        <td>25-10-2024</td>
+        <td>Low Ying Xi</td> 
+        <td>Research on SAP BTP Case Study/Real World Application</td>
+        <td>Searched on Google Scholar using keyword: 
+        "SAP btp"
+         <br>
+        1. https://www.researchgate.net/profile/Radoslav-Hrischev/publication/369321353_Artificial_IntelligenceinEnterprise_Resource_Planning_Systems/links/64413c29b310610491665d9d/Artificial-IntelligenceinEnterprise-Resource-Planning-Systems.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
+        </td>
+    </tr>
 </table>
