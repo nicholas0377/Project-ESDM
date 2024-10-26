@@ -166,6 +166,17 @@
         <td>11.</td>
         <td>24-10-2024</td>
         <td>Low Ying Xi</td> 
+        <td>Research on SAP BTP Key Features & Functionalities</td>
+        <td>Searched on Google using keyword: 
+        "SAP btp learning"
+         <br>
+        1. https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform/illustrating-the-intelligent-sustainable-enterprise_df1d2992-a95a-487a-9a06-7226bebbb11d
+        </td>
+    </tr>
+    <tr>
+        <td>12.</td>
+        <td>24-10-2024</td>
+        <td>Low Ying Xi</td> 
         <td>Research on SAP BTP Case Study/Real World Application</td>
         <td>Searched on Google Scholar using keyword: 
         "SAP btp"
@@ -174,7 +185,7 @@
         </td>
     </tr>
     <tr>
-        <td>12.</td>
+        <td>13.</td>
         <td>25-10-2024</td>
         <td>Low Ying Xi</td> 
         <td>Research on SAP BTP Case Study/Real World Application</td>
