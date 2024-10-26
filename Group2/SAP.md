@@ -164,6 +164,17 @@
     </tr>
     <tr>
         <td>11.</td>
+        <td>24-10-2024</td>
+        <td>Low Ying Xi</td> 
+        <td>Research on SAP BTP Case Study/Real World Application</td>
+        <td>Searched on Google Scholar using keyword: 
+        "SAP btp"
+         <br>
+        1. https://www.researchgate.net/profile/Madhava-Rao-Kunchala/publication/380856503_Transforming_Financial_Data_into_Strategic_Insights_using_SAP_Business_Technology_Platform_BTP/links/6651d6740b0d2845745939a3/Transforming-Financial-Data-into-Strategic-Insights-using-SAP-Business-Technology-Platform-BTP.pdf
+        </td>
+    </tr>
+    <tr>
+        <td>12.</td>
         <td>25-10-2024</td>
         <td>Low Ying Xi</td> 
         <td>Research on SAP BTP Case Study/Real World Application</td>
