@@ -21,3 +21,16 @@
         1. https://developers.sap.com/trials-downloads.html
         </td>
     </tr>
+    <tr>
+        <td>2.</td>
+        <td>27/10/2024</td>
+        <td>Nur Aleysha</td>
+        <td>Research on the topic to be discovered on SAP</td>
+        <td>Searched Google using keyword: 
+        "What is SAP MaxDB used for"
+        <br>
+        <br>
+        1. https://www.suretysystems.com/insights/sap-maxdb-navigating-data-management-in-sap-operating-systems/
+        2. https://www.stechies.com/maxdb/
+        </td>
+    </tr>
