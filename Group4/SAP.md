@@ -18,8 +18,6 @@
         "SAP MaxDB for Microsoft Windows"
         <br>
         <br>
-        Article(s) found:
-        <br>
         1. https://developers.sap.com/trials-downloads.html
         </td>
     </tr>
