@@ -1,4 +1,4 @@
-# Group 6: SAP HANA / SAPUI5 RUNTIME AND SDK
+# Group 6: SAP HANA & SAPUI5 RUNTIME AND SDK
 ## Group Members
 |Name|Matric NO|
 |------|------|
