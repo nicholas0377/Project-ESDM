@@ -1,4 +1,4 @@
-# Group 6: Introduction to the Upcoming Project
+# Group 6: SAP HANA / SAPUI5 RUNTIME AND SDK
 
 ## Overview
 Group 6 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
