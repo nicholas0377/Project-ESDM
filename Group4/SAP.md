@@ -18,7 +18,7 @@
         "SAP MaxDB for Microsoft Windows"
         <br>
         <br>
-        1. https://developers.sap.com/trials-downloads.html
+        1. https://pages.community.sap.com/topics/maxdb
         <br>
         2. https://help.sap.com/docs/SUPPORT_CONTENT/maxdb/3362173458.html
         </td>
