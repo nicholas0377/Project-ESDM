@@ -1,4 +1,8 @@
 # Group 6: SAP HANA / SAPUI5 RUNTIME AND SDK
+### Group Member
+|Name|Matric NO|
+|------|------|
+| Tiew Chuan Rong | A22EC0112 |
 
 ## Overview
 Group 6 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
