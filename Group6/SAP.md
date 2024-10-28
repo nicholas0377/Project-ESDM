@@ -6,7 +6,8 @@
   <tr>
     <th>No.</th>
     <th>Date</th>
-    <th>Name</th>
+    <th>Student Name</th>
+    <th>Activities</th>
     <th>details</th>
   </tr>
   </table>
