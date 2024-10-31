@@ -209,4 +209,15 @@
         1. https://www.researchgate.net/profile/Radoslav-Hrischev/publication/369321353_Artificial_IntelligenceinEnterprise_Resource_Planning_Systems/links/64413c29b310610491665d9d/Artificial-IntelligenceinEnterprise-Resource-Planning-Systems.pdf?origin=journalDetail&_tp=eyJwYWdlIjoiam91cm5hbERldGFpbCJ9
         </td>
     </tr>
+        <tr>
+        <td>15.</td>
+        <td>25-10-2024</td>
+        <td>Camily Tang Jia Lei</td> 
+        <td>Research on Definition of SAP BTP</td>
+        <td>Searched on Google using keyword: 
+        "What is SAP BTP?"
+         <br>
+        1. https://www.sap.com/sea/products/technology-platform/what-is-sap-business-technology-platform.html#:~:text=SAP%20Business%20Technology%20Platform%20is,capabilities%20in%20one%20unified%20environment.
+        </td>
+    </tr>
 </table>
