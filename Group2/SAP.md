@@ -234,4 +234,16 @@
         4. https://www.sap.com/sea/products/technology-platform/integration-suite.html
         </td>
     </tr>
+    <tr>
+        <td>17.</td>
+        <td>26-10-2024</td>
+        <td>Camily Tang Jia Lei</td> 
+        <td>Research on Features of SAP BTP</td>
+        <td>Searched on Youtube using keyword: 
+        "SAP BTP Features"
+         <br>
+        1. https://www.youtube.com/watch?v=hKtDazC9TLI
+        2. https://www.youtube.com/watch?v=GaJsdV4Qrog
+        </td>
+    </tr>
 </table>
