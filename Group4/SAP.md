@@ -73,5 +73,8 @@
         Article found:
         <br>
         1. https://typeset.io/papers/sap-maxdb-administration-2w6c35s3bo
+        <br>
+        2. https://typeset.io/papers/federated-stream-processing-support-for-real-time-business-3sa7web6k7
         </td>
     </tr>
+    
