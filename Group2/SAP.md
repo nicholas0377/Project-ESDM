@@ -220,4 +220,19 @@
         1. https://www.sap.com/sea/products/technology-platform/what-is-sap-business-technology-platform.html#:~:text=SAP%20Business%20Technology%20Platform%20is,capabilities%20in%20one%20unified%20environment.
         </td>
     </tr>
+        </tr>
+        <tr>
+        <td>16.</td>
+        <td>25-10-2024</td>
+        <td>Camily Tang Jia Lei</td> 
+        <td>Research on Features of SAP BTP</td>
+        <td>Searched on Google using keyword: 
+        "SAP BTP Features"
+         <br>
+        1. https://www.sap.com/sea/products/technology-platform/build.html
+        2. https://www.sap.com/sea/products/technology-platform/analytics.html
+        3. https://www.sap.com/sea/products/technology-platform/extended-planning-analysis.html
+        4. https://www.sap.com/sea/products/technology-platform/integration-suite.html
+        </td>
+    </tr>
 </table>
