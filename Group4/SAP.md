@@ -61,3 +61,17 @@
         1. https://www.youtube.com/watch?v=2vwR9XKty6s
         </td>
     </tr>
+    <tr>
+        <td>5.</td>
+        <td>30/10/2024</td>
+        <td>Nur Aleysha</td>
+        <td>Research on the topic to be discovered on SAP</td>
+        <td>Searched on SciSpace using keyword: 
+        "sap maxdb real world application"
+        <br>
+        <br>
+        Article found:
+        <br>
+        1. https://typeset.io/papers/sap-maxdb-administration-2w6c35s3bo
+        </td>
+    </tr>
