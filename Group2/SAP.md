@@ -246,4 +246,16 @@
         2. https://www.youtube.com/watch?v=GaJsdV4Qrog
         </td>
     </tr>
+    <tr>
+        <td>18.</td>
+        <td>27-10-2024</td>
+        <td>Camily Tang Jia Lei</td> 
+        <td>Research on SAP BTP Resources</td>
+        <td>Searched on Google using keyword: 
+        "SAP BTP Resources"
+         <br>
+        1. https://www.sap.com/sea/products/technology-platform/resources.html
+        2. https://help.sap.com/docs/btp
+        </td>
+    </tr>
 </table>
