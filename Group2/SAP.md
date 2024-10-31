@@ -26,8 +26,22 @@
         <th>Activity</th>
         <th>Details</th>
     </tr>
-    <tr>
+        <tr>
         <td>1.</td>
+        <td>23-10-2024</td>
+        <td>Camily Tang Jia Lei</td>
+        <td>Research on SAP BTP</td>
+        <td>Searched Google using keyword: 
+        "SAP BTP"
+        <br>
+        <br>
+        Article(s) found:
+        <br>
+        1. https://www.sap.com/sea/products/technology-platform.html
+        </td>
+    </tr>
+    <tr>
+        <td>2.</td>
         <td>24-10-2024</td>
         <td>Ng Shu Yu</td>
         <td>Research on the topic to be discovered on SAP</td>
@@ -41,7 +55,7 @@
         </td>
     </tr>
     <tr>
-        <td>2.</td>
+        <td>3.</td>
         <td>24-10-2024</td>
         <td>Ng Shu Yu</td>
         <td>Research on SAP Signavio</td>
@@ -55,7 +69,7 @@
         </td>
     </tr>
     <tr>
-        <td>3.</td>
+        <td>4.</td>
         <td>24-10-2024</td>
         <td>Ng Shu Yu</td>
         <td>Research on SAP Signavio</td>
@@ -69,7 +83,7 @@
         </td>
     </tr>
     <tr>
-        <td>4.</td>
+        <td>5.</td>
         <td>24-10-2024</td>
         <td>Ng Shu Yu</td>
         <td>Research on SAP Signavio</td>
@@ -83,7 +97,7 @@
         </td>
     </tr>
     <tr>
-        <td>5.</td>
+        <td>6.</td>
         <td>24-10-2024</td>
         <td>Ng Shu Yu</td>
         <td>Research on SAP Signavio Resources</td>
@@ -99,7 +113,7 @@
         </td>
     </tr>
     <tr>
-        <td>6.</td>
+        <td>7.</td>
         <td>24-10-2024</td>
         <td>Ng Shu Yu</td>
         <td>Research on SAP Signavio Real-World Application</td>
@@ -113,7 +127,7 @@
         </td>
     </tr>
     <tr>
-        <td>7.</td>
+        <td>8.</td>
         <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Key Features : Journey Modeler</td>
@@ -126,7 +140,7 @@
         </td>
     </tr>
     <tr>
-        <td>8.</td>
+        <td>9.</td>
         <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Key Features : Process Governance</td>
@@ -141,7 +155,7 @@
         </td>
     </tr>
      <tr>
-        <td>9.</td>
+        <td>10.</td>
         <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Key Features : Process Automation</td>
@@ -152,7 +166,7 @@
         </td>
     </tr>
      <tr>
-        <td>10.</td>
+        <td>11.</td>
         <td>24-10-2024</td>
         <td>Mulyani Saripuddin</td> 
         <td>Research on SAP Signavio Real World Application</td>
@@ -163,7 +177,7 @@
         </td>
     </tr>
     <tr>
-        <td>11.</td>
+        <td>12.</td>
         <td>24-10-2024</td>
         <td>Low Ying Xi</td> 
         <td>Research on SAP BTP Key Features & Functionalities</td>
@@ -174,7 +188,7 @@
         </td>
     </tr>
     <tr>
-        <td>12.</td>
+        <td>13.</td>
         <td>24-10-2024</td>
         <td>Low Ying Xi</td> 
         <td>Research on SAP BTP Case Study/Real World Application</td>
@@ -185,7 +199,7 @@
         </td>
     </tr>
     <tr>
-        <td>13.</td>
+        <td>14.</td>
         <td>25-10-2024</td>
         <td>Low Ying Xi</td> 
         <td>Research on SAP BTP Case Study/Real World Application</td>
