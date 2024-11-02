@@ -77,4 +77,20 @@
         2. https://typeset.io/papers/federated-stream-processing-support-for-real-time-business-3sa7web6k7
         </td>
     </tr>
+    <tr>
+        <td>6.</td>
+        <td>30/10/2024</td>
+        <td>Nur Aleysha</td>
+        <td>Research on the topic to be discovered on SAP</td>
+        <td>Searched on SciSpace using keyword: 
+        "Performance monitoring tool for SAP Business One"
+        <br>
+        <br>
+        Article found:
+        <br>
+        1. https://www.manageengine.com/products/applications_manager/sap-business-one-monitor.html
+        <br>
+        2. https://www.manageengine.com/products/applications_manager/help/sap-business-one-monitoring-tools.html
+        </td>
+    </tr>
     
