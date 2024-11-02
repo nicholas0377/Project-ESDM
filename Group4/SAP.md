@@ -1,4 +1,4 @@
-# SAP MaxDB and Performance monitoring toop for SAP Business One	
+# SAP MaxDB and Performance monitoring tool for SAP Business One	
 
 <h2>Logbook</h2>
 <table border="1">
