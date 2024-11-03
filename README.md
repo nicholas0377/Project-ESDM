@@ -41,6 +41,6 @@ This project focuses on exploring various components of the **SAP Ecosystem** th
 | i. SAP BTP <br> ii. SAP Signavio                                                          | [Group 2](https://github.com/akim730/Project-ESDM/tree/main/Group2) |
 | i. Business application integration to SAP Analytics Cloud <br> ii. SAP Cloud SDK         | [Group 3](https://github.com/akim730/Project-ESDM/tree/main/Group3) |
 | i. SAP MaxDB for Microsoft Windows <br> ii. Performance monitoring tool for SAP Business One | [Group 4](https://github.com/akim730/Project-ESDM/tree/main/Group4) |
-| i. Not stated...                                                                          | [Group 5](https://github.com/akim730/Project-ESDM/tree/main/Group5) |
+| i. Profile Data Analyzer<br>SAP Merchandise Planning – Omni Channel Content Add-on        | [Group 5](https://github.com/akim730/Project-ESDM/tree/main/Group5) 
 | i. SAP Hana <br> ii. SAPUI5 Runtime and SDK                                               | [Group 6](https://github.com/akim730/Project-ESDM/tree/main/Group6) |
 
