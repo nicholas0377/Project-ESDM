@@ -27,7 +27,16 @@
 <br>
 
 ## Overview
-Group 2 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
+Our team is investigating two key features of SAP: SAP Business Technology Platform (SAP BTP) and SAP Signavio. This project is structured to explore and document their core features, functionalities, and available resources, aiming to understand how these tools enhance business processes and technology integration.
+
+We'll cover:
+
+1. Key Features and Functionalities <b>
+2. Available Resources <b>
+3. Real-World Applications <b>
+4. Lessons Learned and Potential Future Applications <b>
+5. Conclusion
+
 
 ## Goals
 The primary objectives of Group1 in this project include:
