@@ -5,6 +5,7 @@
 |-|-|
 |Neo Zheng Weng|A22EC0093|
 |Nadhrah NurSabrina Binti Zulaini|A22EC0224|
+|Goh Jing Yang|A22EC0052|
 
 ## Overview
 Group 5 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **[Project Name]**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
