@@ -44,7 +44,7 @@ We'll cover:
     </tr>
   <tr>
         <td>Log Book</td>
-        <td>https://github.com/akim730/Project-ESDM/blob/main/Group2/SAP.md</td>
+        <td><a href="https://github.com/akim730/Project-ESDM/blob/main/Group2/SAP.md"><img src="https://img.icons8.com/ios-glyphs/30/github.png" alt="GitHub Icon" /></a></td>
     </tr>
 </table>
 
