@@ -184,7 +184,9 @@
         <td>Searched on Google using keyword: 
         "SAP btp learning"
          <br>
-        1. https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform/illustrating-the-intelligent-sustainable-enterprise_df1d2992-a95a-487a-9a06-7226bebbb11d
+        1.https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform/illustrating-the-intelligent-sustainable-enterprise_df1d2992-a95a-487a-9a06-7226bebbb11d
+        2.https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform/discovering-application-development-and-automation_cca5c842-a632-4dc0-9524-d8a71252aee0
+        3.https://learning.sap.com/learning-journeys/discover-sap-business-technology-platform/illustrating-the-data-to-value-concept_d4870f17-b23d-4a3e-8219-2fb0985cf9c8
         </td>
     </tr>
     <tr>
