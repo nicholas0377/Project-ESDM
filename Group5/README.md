@@ -1,4 +1,4 @@
-# Group 5: Introduction to the Upcoming Project
+# Group 5: Profile Data Analyzer & SAP Merchandise Planning – Omni Channel Content Add-on
 
 ## Group Members
 |Name|Matric No|
