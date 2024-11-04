@@ -13,7 +13,7 @@ The primary objectives of Group1 in this project include:
 | **Name**                               | **Matric No** | **Email**                            |
 |----------------------------------------|---------------|--------------------------------------|
 | Muhammad Daniel Hakim Bin Syahrulnizam | A22EC0207     | muhammad.daniel.hakim@graduate.utm.my|
-| Chai Yu Tong                           | A22EC0145     | member2@example.com                  |
+| Chai Yu Tong                           | A22EC0145     | chaitong@graduate.utm.com            |
 | Member 3                               |               | member3@example.com                  |
 | Member 4                               |               | member4@example.com                  |
 | Member 5                               |               | member5@example.com                  |
