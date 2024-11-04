@@ -1,4 +1,4 @@
-# Group 1: Introduction to the Upcoming Project
+# Group 1: SAP SuccessFactors Human Capital Management (HCM) & SAP Fiori
 
 ## Overview
 Group 1 is excited to announce its involvement in the upcoming project, which aims to innovate and drive significant progress in **SAP SuccessFactors HCM & SAP Fiori**. Our team is dedicated to delivering high-quality results through collaboration, creativity, and a deep understanding of the challenges involved.
