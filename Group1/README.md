@@ -16,7 +16,7 @@ The primary objectives of Group1 in this project include:
 | Chai Yu Tong                           | A22EC0145     | chaitong@graduate.utm.my             |
 | Koh Li Hui                             | A22EC0059     | kohhui@graduate.utm.my               |
 | Tang Yan Qing                          | A22EC0109     | tangqing@graduate.utm.my             |
-| Member 5                               |               | member5@example.com                  |
+| Vinesh Vijayakumar                           |  A22EC0290             | vinesh03@graduate.utm.my                 |
 
 
 ## Next Steps
