@@ -12,7 +12,7 @@ Group 3 is excited to announce its involvement in the upcoming project, which ai
         </tr>
         <tr>
             <td>KOH SU XUAN</td>
-            <td>A22EC0</td>
+            <td>A22EC0060</td>
         </tr>
         <tr>
               <td>WONG QIAO YING</td>
